@@ -152,5 +152,6 @@ erDiagram
     professor ||--o{ departamento : "chefia"
 ```
 
-![image](https://github.com/user-attachments/assets/cede7e6d-6574-457e-8d34-104014302bc4)
+![image](https://github.com/user-attachments/assets/b0e4d00e-fc59-4898-b1ce-29a28fd91cf9)
+
 
