@@ -7,6 +7,7 @@ Este projeto implementa um sistema de banco de dados para gerenciamento universi
 ### Participantes
 
 Willian Verenka RA 22.124.081-5
+
 João Vitor Sitta Giopatto RA 22.123.054-3
 
 ## Preparando o projeto
