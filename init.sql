@@ -1,4 +1,4 @@
-- Tabelas independentes
+-- Tabelas independentes
 CREATE TABLE professor (
     id SERIAL PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
@@ -14,7 +14,7 @@ CREATE TABLE aluno (
     ativo BOOLEAN DEFAULT TRUE
 );
 
--- Tabelas com dependências simples
+-- Tabelas com dependências
 CREATE TABLE departamento (
     id SERIAL PRIMARY KEY,
     nome VARCHAR(100) NOT NULL UNIQUE,
