@@ -22,19 +22,17 @@ Clone o projeto pelo terminal ou IDE de preferência. Pelo terminal:
 ## Conectando com o seu banco
 
 Navegue até a raíz do projeto:
-`cd cd banco-universitario/`
+`cd banco-universitario/`
 
 1. Abra o arquivo "appsettings.json" em seu editor de texto de preferência
 2. Navegue até o supabase e entre na página da sua database.
 3. Clique no botão do topo "Connect"
 4. Troque o tipo para .NET e copie o valor mostrado no campo "DefaultConnection"
-   ![image](https://github.com/user-attachments/assets/056b00d2-2109-495a-9128-ea75317b29e7)
+   ![image](https://github.com/user-attachments/assets/eab03e5a-df93-471b-9070-e11426821669)
 
-      
+5. Substitua o conteúdo do campo "Connection String" em seu editor e salve o arquivo.
+![image](https://github.com/user-attachments/assets/4210401c-f625-40b6-a74d-8a05555ada99)
 
-
-5. Substitua o conteúdo desse campo
-![image](https://github.com/user-attachments/assets/d1419b48-c539-46af-8463-6b73a0f0d7eb)
 
 ## Preparando seu banco
 
